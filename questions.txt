@@ -1,0 +1,38 @@
+ Basic Descriptive Analysis
+1. How many unique customers are in the dataset?  
+2. What is the average income of the customers?  
+3. What is the gender distribution in the dataset?  
+4. What is the most common marital status among the customers?  
+5. How many customers own a home versus rent?  
+
+ Demographic Analysis
+6. What is the average age of customers (using `BirthDate`)?  
+7. What is the distribution of education levels among the customers?  
+8. How does the average income vary by gender?  
+9. What is the most common occupation in the dataset?  
+10. How does marital status correlate with the total number of children?  
+
+ Customer Segmentation
+11. What is the average number of children for customers grouped by income levels (e.g., low, medium, high)?  
+12. Can customers be segmented into income brackets, and what are the characteristics of each bracket?  
+13. Which education level corresponds to the highest average income?  
+14. Are married customers more likely to own homes than single customers?  
+
+
+ Behavioral Patterns
+15. How does the number of children influence income levels?  
+16. What is the average income of customers with advanced education levels?  
+17. Are male or female customers more likely to own homes?  
+18. Which occupations have the highest percentage of homeowners?  
+19. What is the distribution of birth years in the dataset?  
+
+ Data Quality and Completeness
+
+20 How many records have incomplete or null values for `Income` or `TotalChildren`?  
+21. Are there any duplicate entries in the dataset?  
+
+ Correlations and Insights
+22. How does age affect income levels across different education groups?  
+
+ Advanced Analysis
+23. Which customer profiles (gender, education, income) are most likely to have multiple children?
